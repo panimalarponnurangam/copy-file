@@ -32,7 +32,7 @@ Anaconda - Python 3.7
        with open('f2.txt','a') as secondfile:
            for line in firstfine:
                secondfile.write(line)
-
+~~~
 ### OUTPUT:
 
 ![Screenshot (222)](https://user-images.githubusercontent.com/121490826/214883509-743a9593-aedb-4ab6-ac6b-f5351a79a4b1.png)
